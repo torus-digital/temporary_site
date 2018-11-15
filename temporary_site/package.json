@@ -1,0 +1,19 @@
+{
+  "name": "temporary_site",
+  "version": "1.0.0",
+  "description": "temporary site for all torus websites in construction",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "temporary",
+    "site",
+    "bootstrap"
+  ],
+  "author": "Torus Digital",
+  "license": "MIT",
+  "devDependencies": {
+    "cssnano": "^4.1.7"
+  }
+}
